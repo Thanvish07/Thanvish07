@@ -1,38 +1,52 @@
-<!--
-**JThanishVishaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm J Thanish Vishaal!  
+🌟 **Software Engineer** passionate about tech, cybersecurity, and cloud computing!  
+🎓 Studied Computer Science at PES University, Bangalore  
+🔐 Currently diving deep into **Cybersecurity** and exploring **Cloud Technologies**  
+🚀 Excited to collaborate and learn with like-minded people  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...    
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 **What I'm currently working on:**
+- Enhancing skills in **Cybersecurity**, with a focus on penetration testing and vulnerability analysis
+- Working on **Machine Learning** for network intrusion detection systems
 
-# 👋 Hi, I'm J Thanish Vishaal
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Science at the PES University, Bangalore<br/>
-💭 Currently learning about cyber security and cloud <br/>
+---
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🔧 **Tech Stack**:
+<div>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
+---
 
-[![J Thanish Vishaal's Github States](https://github-readme-stats.vercel.app/api?username=Thanvish07&show_icons=true&theme=vision-friendly-dark)](https://github.com/Thanvish07/github-readme-stats)
+### 🔥 **GitHub Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvish07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![J Thanish Vishaal's Github Stats](https://github-readme-stats.vercel.app/api?username=Thanvish07&show_icons=true&theme=vision-friendly-dark)](https://github.com/Thanvish07/github-readme-stats)
 
-# Connect with me 📫
-<p align="left">
-<a href="https://www.linkedin.com/in/thanish-v-500226a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JThanishVishaal" height="30" width="40" /></a>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvish07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 **Let's Connect:**
+- 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/thanish-v-500226a3)
+- 💬 I'm always open to collaborations and cool discussions on tech!
+
+<div>
+  <a href="https://www.linkedin.com/in/thanish-v-500226a3" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/Thanvish07" target="blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" width="40" />
+  </a>
+</div>
+
+---
+
+### ⚡ **Fun Fact:**
+- I love experimenting with new tech stacks and automating tasks for efficiency.
+- Always curious about the **intersection of security** and **cloud-native** architectures.
