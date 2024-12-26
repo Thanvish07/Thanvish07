@@ -40,8 +40,8 @@
   <a href="https://www.linkedin.com/in/thanish-v-500226a3" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/Thanvish07" target="blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/Thanvish07" target="blank">
+    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30" width="40" />
   </a>
 </div>
 
