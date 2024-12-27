@@ -1,7 +1,7 @@
 # 👋 Hello, I'm J Thanish Vishaal!  
 🌟 **Software Engineer** passionate about tech, cybersecurity, and cloud computing!  
 🎓 Studied Computer Science at PES University, Bangalore  
-🔐 Currently diving deep into **Cybersecurity** and exploring **Cloud Technologies**  
+🔐 Currently diving deep into **Cybersecurity** and exploring **Machine Learning**  
 🚀 Excited to collaborate and learn with like-minded people  
 
 ---
