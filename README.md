@@ -8,7 +8,6 @@
 
 ### 🌱 **What I'm currently working on:**
 - Enhancing skills in **Cybersecurity**, with a focus on penetration testing and vulnerability analysis
-- Working on **Machine Learning** for network intrusion detection systems
 
 ---
 
