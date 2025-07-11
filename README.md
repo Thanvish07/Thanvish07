@@ -1,50 +1,80 @@
-# 👋 Hello, I'm J Thanish Vishaal!  
-🌟 **Software Engineer** passionate about tech, cybersecurity, and cloud computing!  
-🎓 Studied Computer Science at PES University, Bangalore  
-🔐 Currently diving deep into **Cybersecurity** and exploring **Machine Learning**  
-🚀 Excited to collaborate and learn with like-minded people  
+<!--
+**Thanvish07/Thanvish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+# 👋 Hello, I'm J Thanish Vishaal!
+
+🌟 **Software Engineer** passionate about technology, cybersecurity, and cloud computing  
+🎓 Studied Computer Science at **PES University**, Bangalore  
+🔐 Currently diving deep into **Cybersecurity**, with a strong interest in **Machine Learning**  
+🚀 Always excited to collaborate, build, and learn with like-minded individuals
 
 ---
 
-### 🌱 **What I'm currently working on:**
-- Enhancing skills in **Cybersecurity**, with a focus on penetration testing and vulnerability analysis
+## 🌱 What I'm Currently Working On
+
+- Enhancing skills in **Penetration Testing** and **Vulnerability Assessment**
+- Exploring **Cloud Security** and **Threat Modeling**
+- Building side projects using **Python**, **React**, and **Security tools**
 
 ---
 
-### 🔧 **Tech Stack**:
-<div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-</div>
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🔥 **GitHub Stats:**
+## 🛠️ Projects
 
-[![J Thanish Vishaal's Github Stats](https://github-readme-stats.vercel.app/api?username=Thanvish07&show_icons=true&theme=vision-friendly-dark)](https://github.com/Thanvish07/github-readme-stats)
+Here are some of the projects I've been working on:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvish07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 📡 **[Integrated RAN-Core Slicing Framework for End-to-End QoS in 5G Networks](https://github.com/Thanvish07/Integrated-RAN-Core-Slicing-Framework-For-End-to-End-QoS-in-5G-Networks)**  
+  A research-backed 5G standalone slicing framework integrating RAN and Core to provide dynamic orchestration and optimized QoS for eMBB, URLLC, and mMTC use cases.
+
+- 🛒 **[Swift Cart – An E-Commerce App](https://github.com/Thanvish07/Swift-Cart--An-Ecommerce-App)**  
+  A full-stack MERN application that offers seamless product browsing, cart management, and order tracking with secure user authentication.
+
+- 🔐 **[RSA Encryption with Block and Stream Ciphers](https://github.com/Thanvish07/RSA-encryption-with-block-and-stream-ciphers)**  
+  A secure encryption system combining RSA with block and stream cipher techniques for enhanced data security and key management.
+
+- 🖼️ **[CNN Image Processing](https://github.com/Thanvish07/CNN_Image_Processing)**  
+  A computer vision project using Convolutional Neural Networks to classify and process image data efficiently for real-world scenarios.
+
+- 📉 **[Stock Market Price Prediction using LSTM](https://github.com/Thanvish07/Stock-Market-Price-Prediction-using-LSTM-Model)**  
+  Deep learning-based time series forecasting model using LSTM to predict stock prices with historical data and technical indicators.
 
 ---
 
-### 🌐 **Let's Connect:**
-- 📧 Reach me on [LinkedIn](https://www.linkedin.com/in/thanish-v-500226a3)
-- 💬 I'm always open to collaborations and cool discussions on tech!
+## 📊 GitHub Stats
 
-<div>
-  <a href="https://www.linkedin.com/in/thanish-v-500226a3" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+[![Thanvish07's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanvish07&show_icons=true&theme=vision-friendly-dark)](https://github.com/Thanvish07/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvish07&layout=compact&theme=vision-friendly-dark)](https://github.com/Thanvish07/github-readme-stats)
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thanish-v-500226a3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://x.com/Thanvish07" target="blank">
-    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30" width="40" />
+  <a href="https://x.com/Thanvish07" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="30" width="40" />
   </a>
-</div>
+</p>
 
 ---
 
-### ⚡ **Fun Fact:**
-- I love experimenting with new tech stacks and automating tasks for efficiency.
-- Always curious about the **intersection of security** and **cloud-native** architectures.
+## ⚡ Fun Fact
+
+- I love automating my daily tasks using Python and Bash scripts  
+- I'm fascinated by the intersection of **cybersecurity** and **cloud-native** solutions  
+- I enjoy mentoring juniors and contributing to open-source communities when possible  
