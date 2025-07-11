@@ -61,11 +61,11 @@ Here are some of the projects I've been working on:
 ## 🌐 Let's Connect
 
 <p align="left">
+    <a href="[https://x.com/Thanvish07](https://x.com/thanish_vishaal)" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="30" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/thanish-v-500226a3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="[https://x.com/Thanvish07](https://x.com/thanish_vishaal)" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" height="30" width="40" />
   </a>
 </p>
 
