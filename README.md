@@ -44,9 +44,6 @@ Here are some of the projects I've been working on:
 - 🔐 **[RSA Encryption with Block and Stream Ciphers](https://github.com/Thanvish07/RSA-encryption-with-block-and-stream-ciphers)**  
   A secure encryption system combining RSA with block and stream cipher techniques for enhanced data security and key management.
 
-- 🖼️ **[CNN Image Processing](https://github.com/Thanvish07/CNN_Image_Processing)**  
-  A computer vision project using Convolutional Neural Networks to classify and process image data efficiently for real-world scenarios.
-
 - 📉 **[Stock Market Price Prediction using LSTM](https://github.com/Thanvish07/Stock-Market-Price-Prediction-using-LSTM-Model)**  
   Deep learning-based time series forecasting model using LSTM to predict stock prices with historical data and technical indicators.
 
