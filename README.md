@@ -4,10 +4,10 @@
 
 # 👋 Hello, I'm J Thanish Vishaal!
 
-🌟 **Project Associate @ RBCCPS, IISc** — applying Time Series Foundation Models for forecasting and anomaly detection of Buildings Energy Consumption Data and Air Quality Data
-🎓 M.Tech in Computer Science (Cybersecurity & Network Security), **PES University**
-🔐 Passionate about **Cybersecurity**, **5G/Network Security**, and **Machine Learning**
-🚀 Always excited to collaborate, build, and learn with like-minded individuals
+- 🌟 **Project Associate @ RBCCPS, IISc** — applying Time Series Foundation Models for forecasting and anomaly detection of Buildings Energy Consumption Data and Air Quality Data
+- 🎓 M.Tech in Computer Science (Cybersecurity & Network Security), **PES University**
+- 🔐 Passionate about **Cybersecurity**, **5G/Network Security**, and **Machine Learning**
+- 🚀 Always excited to collaborate, build, and learn with like-minded individuals
 
 ---
 
@@ -84,7 +84,7 @@
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvish07&layout=compact&theme=vision-friendly-dark)](https://github.com/Thanvish07/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvish07&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Thanvish07/github-readme-stats)
 
 ---
 
